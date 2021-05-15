@@ -1,0 +1,3 @@
+displayName = The Jeff mod
+author = GooseMan
+version = 0.5
